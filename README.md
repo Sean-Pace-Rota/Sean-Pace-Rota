@@ -1,6 +1,6 @@
 <div align="center">
 
-# Welcome
+<img src="welcome.png" alt="Welcome Banner" width="1000"/>
 
 </div>
 
